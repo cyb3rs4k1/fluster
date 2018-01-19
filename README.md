@@ -3,7 +3,7 @@ A python HTTP flooding script to crash a blog website temporarily.
 
 ## Installation
 
-1) Installing in windows :
+1) Installing in Windows :
 
 ```sh
 cd fluster-master
@@ -11,7 +11,7 @@ pip install -r requirements.txt
 python fluster.py
 ```
 
-Installing from github:
+2) Installing in Linux:
 
 ```sh
 git clone https://github.com/cyb3rs4k1/fluster.git
